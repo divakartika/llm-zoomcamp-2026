@@ -1,0 +1,15 @@
+uv
+requests
+minsearch
+openai
+jupyter
+python-dotenv
+toyaikit
+sqlitesearch
+psycopg[binary]
+onnxruntime
+tokenizers
+numpy
+tqdm
+# Development dependencies
+huggingface-hub
