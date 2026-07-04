@@ -2,4 +2,5 @@
 .venv
 .python-version
 *.lock
+pyproject.toml
 __pycache__/
