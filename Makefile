@@ -17,3 +17,9 @@ postgres: network
 		-p 5432:5432 \
 		-v pgdata:/var/lib/postgresql/data \
 		postgres:17
+
+start-postgres:
+	docker start course-assistant-pg
+
+start-grafana:
+	docker start grafana
